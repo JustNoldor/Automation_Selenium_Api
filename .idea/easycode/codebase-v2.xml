@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/org/example/Main.java;/Users/mertsariboga/Desktop/Personal/SeleniumApiAutomation/src/test/java/Services/AdressService.java;/Users/mertsariboga/Desktop/Personal/SeleniumApiAutomation/src/test/java/StepDefs/AdressStepDef.java;/Users/mertsariboga/Desktop/Personal/SeleniumApiAutomation/src/test/java/CucumberRunnerTest.java;/Users/mertsariboga/Desktop/Personal/SeleniumApiAutomation/pom.xml" />
+  </component>
+</project>
